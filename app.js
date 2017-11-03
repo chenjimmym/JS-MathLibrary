@@ -1,0 +1,1 @@
+var mathModule = require('./mathlib')();
